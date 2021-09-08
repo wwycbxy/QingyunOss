@@ -1,11 +1,9 @@
 {
-  "name": "yunify/qingstor-sdk",
-  "homepage": "https://www.qingstor.com",
-  "description": "The official QingStor SDK for the PHP programming language.",
+  "name": "eqiai/qingstor-sdk",
+  "homepage": "http://www.eqiai.net/",
+  "description": "针对易企爱-青云oss上传的修改composer包",
   "keywords": [
-    "qingcloud",
-    "yunify",
-    "qingstor",
+    "eqiai",
     "object storage",
     "sdk"
   ],
@@ -13,9 +11,9 @@
   "license": "Apache-2.0",
   "authors": [
     {
-      "name": "Yunify SDK Group",
-      "email": "sdk_group@yunify.com",
-      "homepage": "https://www.qingstor.com"
+      "name": "eqiai SDK Group",
+      "email": "xinyu@wwbxy.top",
+      "homepage": "http://www.eqiai.net/"
     }
   ],
   "support": {
@@ -23,7 +21,7 @@
     "issues": "https://github.com/yunify/qingstor-sdk-php/issues"
   },
   "require": {
-    "guzzlehttp/guzzle": "^7.2",
+    "guzzlehttp/guzzle": "^7.3",
     "katzgrau/klogger": "^1.2.1",
     "mustangostang/spyc": "~0.6"
   },
